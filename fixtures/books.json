@@ -1,0 +1,31 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "isbn": "0006375952",
+            "title": "City of Djinns: A Year in Delhi",
+            "author": {
+                "firstname": "Willam",
+                "lastname": "Dalrymple"
+            }
+        },
+        {
+            "id": "2",
+            "isbn": "0099433826",
+            "title": "French Revolutions",
+            "author": {
+                "firstname": "Tim",
+                "lastname": "Moore"
+            }
+        },
+        {
+            "id": "3",
+            "isbn": "1984822179",
+            "title": "Normal People",
+            "author": {
+                "firstname": "Sally",
+                "lastname": "Rooney"
+            }
+        }
+    ]
+}
